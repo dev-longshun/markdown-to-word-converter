@@ -1,0 +1,11 @@
+# 依赖文件夹
+node_modules
+
+# 程序生成的结果文件夹
+word_documents
+
+# Mac 操作系统文件
+.DS_Store
+
+# 日志文件
+*.log
