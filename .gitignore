@@ -1,6 +1,8 @@
 # 依赖文件夹
 node_modules
 
+#待转换文件夹
+markdown_files
 # 程序生成的结果文件夹
 word_documents
 
